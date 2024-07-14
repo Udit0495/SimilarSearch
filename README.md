@@ -24,4 +24,4 @@ after installing run main.py using command
 python3 main.py --dataset_dir "path"
 ```
 
-![Alt text](results/1.jpg)
+![Alt text](results/1.png)
