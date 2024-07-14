@@ -20,6 +20,8 @@ pip install -r requirements.txt
 ```
 ## Uses
 after installing run main.py using command
-```sh python3 main.py --dataset_dir "path"
+```sh
+python3 main.py --dataset_dir "path"
 ```
+
 ![Alt text](results/1.jpg)
