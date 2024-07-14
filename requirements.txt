@@ -1,0 +1,4 @@
+#linux
+opencv-python3
+matplotlib
+tensorflow
