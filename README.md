@@ -10,9 +10,9 @@ SimilarSearch is a tool for finding similar items in a dataset. This project aim
 - Easy to integrate and use
 - 
 ## Testing Environment configurations--
-### OS - Linux
-### Python - 3.10
-### CPU = Intel i5 8th Gen, GPU = No
+-- OS - Linux
+-- Python - 3.10
+-- CPU = Intel i5 8th Gen, GPU = No
 
 ## Installation
 
