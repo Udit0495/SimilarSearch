@@ -28,7 +28,7 @@ after installing run main.py using command
 ```sh
 python3 main.py --dataset_dir "path"
 ```
-
+- Then enter image name as following
 ![Alt text](results/1.png)
 
 ## There are some ouputs --
