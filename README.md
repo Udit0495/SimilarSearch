@@ -25,3 +25,10 @@ python3 main.py --dataset_dir "path"
 ```
 
 ![Alt text](results/1.png)
+
+## There are some ouputs --
+![Alt text](results/2.png)
+![Alt text](results/3.png)
+![Alt text](results/4.png)
+![Alt text](results/5.png)
+![Alt text](results/6.png)
