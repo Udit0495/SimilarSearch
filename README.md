@@ -9,7 +9,7 @@ SimilarSearch is a tool for finding similar items in a dataset. This project aim
 - Scalable for large datasets
 - Easy to integrate and use
 
-## Installation and Uses
+## Installation
 
 To install the package, you can clone this repository and install the dependencies using `pip`.
 
@@ -17,6 +17,9 @@ To install the package, you can clone this repository and install the dependenci
 git clone https://github.com/Udit0495/SimilarSearch.git
 cd SimilarSearch
 pip install -r requirements.txt
-
+```
+## Uses
 after installing run main.py using command
-python3 main.py --dataset_dir "path"
+```sh python3 main.py --dataset_dir "path"
+```
+![Alt text](results/1.jpg)
